@@ -1,0 +1,7 @@
+# Simple Calculator - Day 2
+a = 10
+b = 5
+print("Add:", a + b)
+print("Sub:", a - b)
+print("Mul:", a * b)
+print("Div:", a / b)
